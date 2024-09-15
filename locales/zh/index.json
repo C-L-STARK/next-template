@@ -8,5 +8,6 @@
   },
   "NotFoundPage": {
     "title": "页面走丢了"
-  }
+  },
+  "title": "元标题"
 }
