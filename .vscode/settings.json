@@ -6,11 +6,18 @@
     "animejs",
     "clsx",
     "cmdk",
+    "consola",
     "embla",
     "hookform",
+    "languagedetector",
     "lucide",
+    "openai",
     "sonner",
     "tailwindcss",
     "vaul"
-  ]
+  ],
+  "i18n-ally.localesPaths": ["locales"],
+  "i18n-ally.sourceLanguage": "zh",
+  "i18n-ally.keystyle": "nested",
+  "editor.formatOnSave": true
 }

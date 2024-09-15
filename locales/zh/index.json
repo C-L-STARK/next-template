@@ -1,0 +1,12 @@
+{
+  "HomePage": {
+    "title": "我的首页",
+    "about": "关于我们"
+  },
+  "Metadata": {
+    "title": "首页"
+  },
+  "NotFoundPage": {
+    "title": "页面走丢了"
+  }
+}

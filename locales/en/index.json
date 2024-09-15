@@ -1,0 +1,12 @@
+{
+  "HomePage": {
+    "about": "About us",
+    "title": "My homepage"
+  },
+  "Metadata": {
+    "title": "Home"
+  },
+  "NotFoundPage": {
+    "title": "Not Found"
+  }
+}
